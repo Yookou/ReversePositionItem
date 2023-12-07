@@ -1,0 +1,13 @@
+##Message
+victim-reverse-message: "You changed position with {damager}"
+damager-reverse-message: "You changed position with {victim}"
+cooldown-message: "Usable in {time}"
+
+##Item
+item:
+  name-item: "blaze_rod"
+  cooldown: 300 #in seconds
+
+
+
+
